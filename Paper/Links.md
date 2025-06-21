@@ -1,4 +1,4 @@
-1 . Paper title : **Image Pattern Analysis towards Classification of Skin Cancer through Dermoscopic Images **
+1 . Paper title : **Image Pattern Analysis towards Classification of Skin Cancer through Dermoscopic Images**
 
  DOI    :  10.1109/SMART-TECH49988.2020.00055 
 
